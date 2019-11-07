@@ -1,0 +1,10 @@
+/Users/boss/Desktop/IT/C++/workshops/Workshop4-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/boss/Desktop/IT/C++/workshops/Workshop4-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/boss/Desktop/IT/C++/workshops/Workshop4-master/cmake-build-debug/CMakeFiles/problem_2.dir
+/Users/boss/Desktop/IT/C++/workshops/Workshop4-master/cmake-build-debug/CMakeFiles/ex1_do_while.dir
+/Users/boss/Desktop/IT/C++/workshops/Workshop4-master/cmake-build-debug/CMakeFiles/problem_1.dir
+/Users/boss/Desktop/IT/C++/workshops/Workshop4-master/cmake-build-debug/CMakeFiles/problem_3.dir
+/Users/boss/Desktop/IT/C++/workshops/Workshop4-master/cmake-build-debug/CMakeFiles/ex4_cpp_string.dir
+/Users/boss/Desktop/IT/C++/workshops/Workshop4-master/cmake-build-debug/CMakeFiles/ex2_c_string.dir
+/Users/boss/Desktop/IT/C++/workshops/Workshop4-master/cmake-build-debug/CMakeFiles/problem_4.dir
+/Users/boss/Desktop/IT/C++/workshops/Workshop4-master/cmake-build-debug/CMakeFiles/ex3_cpp_string.dir
